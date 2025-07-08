@@ -1,0 +1,3 @@
+[2025-07-07 12:33:23] INFO: User admin logged in
+[2025-07-07 12:33:25] WARNING: Failed login attempt from 192.168.1.15
+[2025-07-07 12:33:27] ERROR: SQL Injection attempt detected: ' OR 1=1 --
